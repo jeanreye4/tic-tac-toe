@@ -3,7 +3,7 @@
 ## Open Office Hours
 
 Instructors will be holding open office hours on each project day.
-Take a look at the [class calendar](https://ga-dc.github.io/wdi16/) for specific dates and times. The normal afternoon and evening office hour schedule will **not** be observed during project week.
+Take a look at the [class calendar](https://git.generalassemb.ly/pages/DC-WDI/WDI18/#2017-07-27) for specific dates and times. The normal afternoon and evening office hour schedule will **not** be observed during project week.
 
 ## Github Issues
 
