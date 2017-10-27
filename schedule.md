@@ -9,7 +9,6 @@
 | **3:40PM - 3:50PM** | Andy's Squad Sets Up |
 | **3:50PM - 4:20PM** | Andy's Squad Presents |
 | **4:20PM - 4:30PM** | Break |
-| **4:30PM - 4:50PM** | Squad Scrums |
-| **4:50PM - 5:00PM** | Course Feedback Survey |
+| **4:30PM - 5:00PM** | Squad Scrums |
 
 
