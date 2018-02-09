@@ -16,6 +16,8 @@ This is an opportunity to **be creative**, and work through some **tough program
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
 
+> If you want to choose a different game for project1, please consult with an instructor! Warning - many seemingly simple games end up being much more complex than you might think!
+
 ### Asking For Help
 
 [Please read!](asking-for-help.md)
@@ -29,7 +31,7 @@ Your app must:
 * **Render in the browser**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Stupid Simple)** and **DRY (Don't Repeat Yourself)** principles
-* Use **Javascript or jQuery** for **DOM manipulation**
+* Use **Javascript** for **DOM manipulation**
 * **Deploy online**, using [Github **Project** pages](https://pages.github.com).
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
 
@@ -92,12 +94,12 @@ git push origin gh-pages
 ### Suggested Ways to Get Started
 
 [Create your bronze, silver, and gold plan.](https://github.com/ga-wdi-lessons/bronze-silver-gold)
-
+* **Planning!** (user stories, mvp, pseudocode)
 * **Break the project down into different components** (data, presentation, views, style, DOM manipulation) and brainstorm each component individually. Use whiteboards!
 * **Use your Development Tools** (console.log, inspector, alert statements, etc) to debug and solve problems
 * Work through the lessons in class & ask questions when you need to! Think about adding relevant code to your game each night, instead of, you know... _procrastinating_.
 * **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version.
-* **Consult documentation resources** (MDN, jQuery, etc.) at home to better understand what you’ll be getting into.
+* **Consult documentation resources** (MDN, W3Schools, etc.) at home to better understand what you’ll be getting into.
 * **Don’t be afraid to write code that you know you will have to remove later.** Create temporary elements (buttons, links, etc) that trigger events if real data is not available. For example, if you’re trying to figure out how to change some text when the game is over but you haven’t solved the win/lose game logic, you can create a button to simulate that until then.
 
 ---
@@ -164,13 +166,11 @@ Have a player enter a word that will be guessed during the game. The word is the
  * Track scores across games (even if the page is reloaded)
 
 
-
 ---
 
 ### Useful Resources
 
 * **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** _(a great reference for all things Vanilla Javascript)_
-* **[jQuery Docs](http://api.jquery.com)** _(if you're using jQuery)_
 * **[Github Pages](https://pages.github.com)** _(for hosting your game)_
 
 ---
@@ -187,7 +187,7 @@ We expect everyone to attend all presentations in their entirety and will provid
 
 This means **no working on your code** while others are presenting. This is your chance to ask others how they tackled their project.
 
-Each session of presentations will be science-fair style. Several people will set up at a given time, and other students will walk around asking questions like:
+Each session of presentations will be *science-fair style*. Several people will set up at a given time, and other students will walk around asking questions like:
 
 - What would you do differently?
 - What are you most proud of?
