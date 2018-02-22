@@ -4,7 +4,7 @@
 
 ### Overview
 
-For this project, you'll be creating a familiar game with HTML, CSS and JS! Please choose one of the following:
+For your first project, you'll be creating a familiar game with HTML, CSS and JS! Please choose one of the following:
 
 * **Tower of Hanoi**
 * **Trivia (Self-scoring)**
@@ -30,7 +30,7 @@ Your app must:
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Stupid Simple)** and **DRY (Don't Repeat Yourself)** principles
 * Use **Javascript or jQuery** for **DOM manipulation**
-* **Deploy online**, using [Github **Project** pages](https://pages.github.com).
+* **Be deployed online**, using [Github **Project** pages](https://pages.github.com) or to a custom domain.
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
 
 ---
@@ -69,7 +69,7 @@ With your submission **please include any questions you'd like answered, or spec
 
 Instead, try these steps:
 
-#### 1. Create a gh-pages branch, from master:
+#### 1. Create a `gh-pages` branch, from master:
 ```
 git checkout master
 git checkout -b gh-pages
@@ -162,8 +162,6 @@ Have a player enter a word that will be guessed during the game. The word is the
 
  * Add timer-based scoring
  * Track scores across games (even if the page is reloaded)
-
-
 
 ---
 

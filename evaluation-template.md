@@ -1,15 +1,13 @@
 # Project Feedback + Evaluation
 
 | Score | Expectations |
-|   --- | ---          |
-|     0 | Incomplete   |
-|     1 | Progressing  |
-|     2 | Performing   |
-|     3 | Excelling    |
+| --- | --- |
+| 0 | Incomplete |
+| 1 | Progressing |
+| 2 | Performing |
+| 3 | Excelling |
 
-## Deployment:
-
-> Did you successfully deploy your project to github pages? Is the app's functionality the same deployed as it is locally?
+- [ ] The project is deployed to GitHub Pages or a custom domain
 
 ## Technical Requirements:
 
@@ -22,3 +20,8 @@
 ## Creativity/Interface:
 
 > Is your user interface easy to use and understand? Does it make sense for the problem you're solving? Does your interface demonstrate creative design?
+
+## Presentation:
+
+> Is your interface well designed? Is your repository and readme will structured and formatted?
+
