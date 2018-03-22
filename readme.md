@@ -63,9 +63,7 @@ Your submission must include **all** of the following:
   * Explanations of the technologies used, the approach taken, installation
     instructions, unsolved problems, etc.
 
-The URL section of your Github repo:
-
-![URL section](http://i.imgur.com/QQ7RsfR.gif)
+The URL section of your Github repo: ![URL section](http://i.imgur.com/QQ7RsfR.gif)
 
 ## Deploying via GitHub Pages
 
