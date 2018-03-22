@@ -15,6 +15,10 @@ programming challenges**.
 **You will be working individually for this project**, but we'll be guiding you
 along the process and helping as you go. Show us what you've got!
 
+> If you want to choose a different game for Project #1, please consult with an
+> instructor! Warning - many seemingly simple games end up being much more
+> complex than you might think!
+
 ## Asking For Help
 
 ### Open Office Hours
