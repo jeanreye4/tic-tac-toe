@@ -19,22 +19,6 @@ along the process and helping as you go. Show us what you've got!
 > instructor! Warning - many seemingly simple games end up being much more
 > complex than you might think!
 
-## Asking For Help
-
-### Open Office Hours
-
-Instructors will be holding open office hours on each project day from 10:00 to
-12:30 and from 2:30 to 5:00. The normal afternoon and evening office hour
-schedule will **not** be observed during project week.
-
-### Github Issues
-
-We strongly encourage you to file a Github issue prior to asking the instructors
-for help directly. This will not only make you a better developer but a better
-learner. Visit [this
-readme](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/asking-for-help.md)
-for more details on asking for help.
-
 ## Requirements
 
 ### Technical Requirements
@@ -67,7 +51,7 @@ specific things on which you'd like us to focus when giving feedback.
 
 ### Necessary Deliverables
 
-Your submission must includ **all** of the following:
+Your submission must include **all** of the following:
 
 * A hosted copy of your game, built by you, hosted on Github Pages
 * Your HTML/CSS should pass the [HTML5 Validator](https://html5.validator.nu)
@@ -117,7 +101,23 @@ After making further changes, deploy via push:
 git push origin gh-pages
 ```
 
-### Suggested Ways to Get Started
+## Asking For Help
+
+### Open Office Hours
+
+Instructors will be holding open office hours on each project day from 10:00 to
+12:30 and from 2:30 to 5:00. The normal afternoon and evening office hour
+schedule will **not** be observed during project week.
+
+### Github Issues
+
+We strongly encourage you to file a Github issue prior to asking the instructors
+for help directly. This will not only make you a better developer but a better
+learner. Visit [this
+readme](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/asking-for-help.md)
+for more details on asking for help.
+
+## Suggested Ways to Get Started
 
 [Create your bronze, silver, and gold
 plan.](https://github.com/ga-wdi-lessons/bronze-silver-gold)
