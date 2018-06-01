@@ -62,6 +62,7 @@ Your submission must include **all** of the following:
 * A `readme.md` file, including
   * Explanations of the technologies used, the approach taken, installation
     instructions, unsolved problems, etc.
+  * [Follow this mini-lesson on writing documentation](https://git.generalassemb.ly/dc-wdi-fundamentals/markdown-and-documentation) for your project
 
 The URL section of your Github repo: ![URL section](https://i.imgur.com/QQ7RsfR.gif)
 
