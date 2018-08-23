@@ -220,7 +220,7 @@ round if the player is successful.
 
 Your instructors will use this rubric to assess your project:
 
-[Evaluation Rubric](evaluation-template.md)
+[Evaluation Rubric](evaluation.md)
 
 ## Presentations
 
