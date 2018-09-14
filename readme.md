@@ -263,6 +263,9 @@ professional and presentable when you go to apply for jobs:
     your application
   - [ ] Descriptions of any **unsolved problems** or **major hurdles** you had
     to overcome
+- [ ] Add your project to your portfolio site
+  - [ ] Include an image, title, and brief description
+  - [ ] Link to both the deployed project and the repository on GitHub
 
 ## Plagiarism
 
