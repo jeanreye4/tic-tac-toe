@@ -105,7 +105,7 @@ git push origin gh-pages
 ### Open Office Hours
 
 Instructors will be holding open office hours on each project day from 10:00 to
-12:30 and from 2:30 to 5:00. The normal afternoon and evening office hour
+12:00 and from 2:00 to 4:00. The normal afternoon and evening office hour
 schedule will **not** be observed during project week.
 
 ### Github Issues
