@@ -277,9 +277,6 @@ for jobs by completing some (or all) of the following:
     include:
     - An image/screenshot of your project
     - A link to the deployed version of your project
-    - A brief description of the project, mentioning that you are a new
-        developer
-    - Appropriate tags for your post: `#webdevelopment`, `#developers`, `#softwaredevelopment`, `#softwareengineers`
 - [ ] Write and publish a brief blog post about your project to Medium or
     Dev.to:
     - Include what you decided to build, how you approached building, the
