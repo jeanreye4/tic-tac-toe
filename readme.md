@@ -66,40 +66,6 @@ Your submission must include **all** of the following:
 
 The URL section of your Github repo: ![URL section](https://i.imgur.com/QQ7RsfR.gif)
 
-## Deploying via GitHub Pages
-
-**DO NOT** follow the instructions provided by GitHub for creating your Project
-Pages. Why not? They expect `gh_pages` to be a separate informational site about
-the project contained in the repo. What we want is to use the `gh_pages`
-functionality to actually host our game.
-
-Instead, try these steps:
-
-1. Create a `gh-pages` branch, from master:
-
-```sh
-git checkout master
-git checkout -b gh-pages
-```
-
-2. Initial deploy to origin (via push):
-
-```sh
-git push -u origin gh-pages
-```
-
-3. Verify
-
-Browse to `<your_github_username>.github.io/<repo_name>`
-
-Follow-up deployments:
-
-After making further changes, deploy via push:
-
-```sh
-git push origin gh-pages
-```
-
 ## Asking For Help
 
 ### Open Office Hours
@@ -157,6 +123,8 @@ the user gets them right!
 * Include images on one or both sides of the flash card
 * Let the user add flash cards (don't need to be saved across refreshes)
 
+[Here's an example from a previous student](http://sarah-yu.com/simon/)
+
 ### Self-scoring Trivia
 
 Pre-load your app with some questions and answers.
@@ -170,6 +138,8 @@ can actually win). Guess answers, have the computer tell you how right you are!
 * Track scores across games (even if the page is reloaded)
 * Allow users to compete against each other on a high-score board.
 
+[Here's an example from a previous student](https://sathyaram.github.io/oscarstriviagame/)
+
 ### Hangman
 
 Have a player enter a word that will be guessed during the game. The word is
@@ -180,6 +150,8 @@ letters, which are revealed if present.
 
 * Add timer-based scoring
 * Track scores across games (even if the page is reloaded)
+
+[Here's an example from a previous student](https://hangman-ntartaro.herokuapp.com/)
 
 ### Tower of Hanoi
 
@@ -197,6 +169,8 @@ to another. There are three rules:
 * Add time-based scoring
 * Track scores across games (even if the page is reloaded)
 
+[Here's an example from a previous student](https://nnguy152.github.io/01-Tower-of-Hanoi/)
+
 ### Simon
 
 <a href="https://en.wikipedia.org/wiki/Simon_">Simon</a> is a test of memory.
@@ -208,6 +182,8 @@ round if the player is successful.
 
 * Add timer-based scoring
 * Track scores across games (even if the page is reloaded)
+
+[Here's an example from a previous student](https://aiyentam.github.io/Simon-Says/)
 
 ## Useful Resources
 
@@ -242,10 +218,12 @@ like:
 
 ## Resources
 
-* [HackDesign](https://hackdesign.org/lessons) (beginner's reference for
-  thinking like a designer)
 * [UX Design for
     Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
+* [Design for Developers](https://medium.com/forge-uk/design-for-developers-part-one-basic-principles-a44329651cd)
+
+**Note:** There are designers on campus. Try asking them for help and offering
+your coding skills in return!
 
 ## Pre-employment checklist
 
