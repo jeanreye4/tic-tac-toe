@@ -68,11 +68,15 @@ The URL section of your Github repo: ![URL section](https://i.imgur.com/QQ7RsfR.
 
 ## Asking For Help
 
-### Open Office Hours
+### Office Hours Appointments
 
-Instructors will be holding open office hours on each project day from 10:00 to
-12:00 and from 2:00 to 4:00. The normal afternoon and evening office hour
-schedule will **not** be observed during project week.
+Instructors will be hosting office hours between 10:00 to 12:00 and 2:00 to
+4:00 each day of project week. Unlike normal office hours, project hours are by
+appointment. You can sign up for a 30 minute time slot, to have your project
+reviewed and questions answered, on the course calendar.
+
+The normal afternoon and evening office hours schedule will **not** be observed
+during project week.
 
 ### Github Issues
 
