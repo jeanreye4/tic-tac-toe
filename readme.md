@@ -71,7 +71,7 @@ The URL section of your Github repo: ![URL section](https://i.imgur.com/QQ7RsfR.
 ### Open Office Hours
 
 Instructors will be holding open office hours on each project day from 10:00 to
-12:30 and from 2:30 to 5:00. The normal afternoon and evening office hour
+12:00 and from 2:00 to 4:00. The normal afternoon and evening office hour
 schedule will **not** be observed during project week.
 
 ### Github Issues
@@ -196,7 +196,7 @@ round if the player is successful.
 
 Your instructors will use this rubric to assess your project:
 
-[Evaluation Rubric](evaluation-template.md)
+[Evaluation Rubric](evaluation.md)
 
 ## Presentations
 
@@ -227,8 +227,8 @@ your coding skills in return!
 
 ## Pre-employment checklist
 
-Make sure you've completed each of these items, so your project looks
-professional and presentable when you go to apply for jobs:
+Make sure your project looks professional and presentable when you go to apply
+for jobs by completing some (or all) of the following:
 
 - [ ] Add the deployed URL to repo settings
 - [ ] Add a readme with:
@@ -241,6 +241,27 @@ professional and presentable when you go to apply for jobs:
     your application
   - [ ] Descriptions of any **unsolved problems** or **major hurdles** you had
     to overcome
+- [ ] Add your project to your portfolio site
+  - [ ] Include an image, title, and brief description
+  - [ ] Link to both the deployed project and the repository on GitHub
+- [ ] Write and share a post linking to your project on LinkedIn. Be sure to
+    include:
+    - An image/screenshot of your project
+    - A link to the deployed version of your project
+    - A brief description of the project, mentioning that you are a new
+        developer
+    - Appropriate tags for your post: `#webdevelopment`, `#developers`, `#softwaredevelopment`, `#softwareengineers`
+- [ ] Write and share a post linking to your project on Twitter. Be sure to
+    include:
+    - An image/screenshot of your project
+    - A link to the deployed version of your project
+- [ ] Write and publish a brief blog post about your project to Medium or
+    Dev.to:
+    - Include what you decided to build, how you approached building, the
+        "phases" you went through, one particularly challenging technical hurdle
+        and how you overcame it, and a conclusion
+    - Include lots of images, code snippets, and screenshots
+    - Include a link to your repo and deployed project
 
 ## Plagiarism
 
