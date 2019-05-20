@@ -1,5 +1,30 @@
 # Project Evaluation
 
+Your instructors will evaluate your project and determine if it is complete or
+incomplete. We use the below scoring and rubric for our evaluation, but
+ultimately it is up to your instructors as to weather your project is complete
+or incomplete.
+
+We will evaluate your project according to the following criteria:
+
+* **Code Quality:** Is the code well formatted? Are variable and function names
+    semantic and sensible? Is the code easy to read and understand?
+* **Technical Requirements:** How does the project stack up to the requirements
+    for this project? Is the developer making use of the material we've covered
+    in a way that makes sense?
+* **Creativity & Interface:** Is the application easy to navigate? Does it work
+    well in every major browser? Is it responsive? Does it incorporate modern UI
+    Themes?
+* **Functionality:** Does the application work without errors or bugs? Does it
+    present a complete app, where every feature is fully implemented in a way
+    that makes sense?
+* **Presentation:** Is there adequate documentation? Is the repository well
+    organized and free of clutter?;w
+
+## Scoring
+
+Each of the above categories will be scored according to the following:
+
 | Score | Description |
 | --- | --- |
 | 0 | Incomplete |
@@ -7,18 +32,14 @@
 | 2 | Performing |
 | 3 | Excelling |
 
+For a project to be considered complete, you must achieve at least "Progressing"
+in each category. However, at a minimum, you should aim to achieve "Performing"
+in every category.
+
 ## Hard Requirements
 
-- The project is deployed to GitHub Pages or a custom domain
+The following requirements ***must*** be met in order for the project to be
+considered complete:
 
-## Evaluation Rubric
-
-We will evaluate your project to the following requirements. While you must achieve at least
-"Progressing" for each category, we strongly encourage you to aim for "Performing" or "Excelling".
-
-| Category                        | Incomplete                               | Progressing                              | Performing                               | Excelling                                |
-| ------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-| Code Quality                    | Minimal functional code is present       | Code lacks proper formatting, includes commented out, non-functional code, or otherwise contains major issues of quality (DRY, naming, etc) | Code is well-formatted, well-named, and contains few style / quality issues | Well-modularized code, makes use of JS best practices appropriately, and seperates concerns |
-| Technical Requirements          | Does not render in browser. | Renders in browser but contains major errors or does not follow seperation of concerns. | Renders in browser with no major errors and seperates concerns into distinct HTML, CSS, and JavaScript files. | Includes advanced functionality or other technology not covered in class |
-| Creativity and Interface        | Zero or minimal styling | The app is styled with a basic layout. | The app displays a personal spin or creative element through its written language, functionality, purpose, and/or CSS.| The app is fully responsive. App incorporates modern UI themes, and/or adds unique flair. |
-| Presentation    | No `readme` present, interface is non-functional. | Application has a basic interface and minimal `readme` | Application has functional and creative interface and a `readme` with relevant information about the application. | Application has an intuive and creative interface and a `readme` with relevant information about the application.  |
+* The project is deployed to GitHub Pages or a custom domain
+* The application renders in the browser and runs without errors
