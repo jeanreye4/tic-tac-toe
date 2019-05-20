@@ -19,7 +19,7 @@ We will evaluate your project according to the following criteria:
     present a complete app, where every feature is fully implemented in a way
     that makes sense?
 * **Presentation:** Is there adequate documentation? Is the repository well
-    organized and free of clutter?;w
+    organized and free of clutter?
 
 ## Scoring
 
