@@ -73,10 +73,14 @@ The URL section of your Github repo: ![URL section](https://i.imgur.com/QQ7RsfR.
 Instructors will be hosting office hours between 10:00 to 12:00 and 2:00 to
 4:00 each day of project week. Unlike normal office hours, project hours are by
 appointment. You can sign up for a 30 minute time slot, to have your project
-reviewed and questions answered, on the course calendar.
+reviewed, and questions answered, on the course calendar.
 
 The normal afternoon and evening office hours schedule will **not** be observed
 during project week.
+
+> The purpose of this project is for you to show us and future employers what
+> you're capable of, so we want as much of the project to be your own, independent
+> work as possible
 
 ### Github Issues
 
@@ -85,6 +89,15 @@ for help directly. This will not only make you a better developer but a better
 learner. Visit [this
 readme](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/asking-for-help.md)
 for more details on asking for help.
+
+### Project Review
+
+During the week, the instructors will be hosting a project review. The purpose
+of this time is to have your code and progress reviewed, to make sure you're on
+track to finish.
+
+**You should use this time to ask for constructive feedback, so come with
+questions prepared and specific things you'd like advice on.**
 
 ## Suggested Ways to Get Started
 
