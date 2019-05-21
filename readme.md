@@ -74,7 +74,7 @@ The URL section of your Github repo:
 
 Instructors will be hosting office hours between 10:00 to 12:00 and 2:00 to 4:00
 each day of project week. Unlike normal office hours, project hours are by
-appointment. You can sign up for a 30 minute time slot, to have your project
+appointment. You can sign up for a 20 minute time slot, to have your project
 reviewed, and questions answered, on the course calendar.
 
 The normal afternoon and evening office hours schedule will **not** be observed
