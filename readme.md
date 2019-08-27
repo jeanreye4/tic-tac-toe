@@ -3,11 +3,11 @@
 For your first project, you'll be creating a familiar game using HTML, CSS and
 JS! Please choose one of the following options:
 
-- **Tower of Hanoi**
-- **Trivia (Self-scoring)**
 - **Flash Cards**
-- **Simon**
+- **Trivia (Self-scoring)**
 - **Hangman**
+- **Tower of Hanoi**
+- **Simon**
 
 This is an opportunity to **be creative**, and work through some **tough
 programming challenges**.
