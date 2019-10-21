@@ -3,11 +3,11 @@
 For your fourth project, you'll be creating a familiar game using HTML, CSS and
 JS! Please choose one of the following options:
 
-- **Tower of Hanoi**
-- **Trivia (Self-scoring)**
 - **Flash Cards**
-- **Simon**
+- **Trivia (Self-scoring)**
 - **Hangman**
+- **Tower of Hanoi**
+- **Simon**
 
 This is an opportunity to **be creative**, and work through some **tough
 programming challenges**.
@@ -27,7 +27,7 @@ Your game must:
 
 - Render in the browser
 - Include separate HTML / CSS / JavaScript files
-- Use Javascript or jQuery for DOM manipulation
+- Use Javascript for DOM manipulation
 - Be deployed online, using [Github Project pages](https://pages.github.com)
   and/or to a custom domain.
 - Use semantic markup for HTML and CSS (adhere to best practices)
