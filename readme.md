@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #1: Build a Game with HTML, CSS and JavaScript
 
-For your first project, you'll be creating a familiar game using HTML, CSS and
+For your fourth project, you'll be creating a familiar game using HTML, CSS and
 JS! Please choose one of the following options:
 
 - **Tower of Hanoi**
@@ -15,7 +15,7 @@ programming challenges**.
 **You will be working individually for this project**, but we'll be guiding you
 along the process and helping as you go. Show us what you've got!
 
-> If you want to choose a different game for Project #1, please consult with an
+> If you want to choose a different game for Project #4, please consult with an
 > instructor! Warning - many seemingly simple games end up being much more
 > complex than you might think!
 
@@ -23,7 +23,7 @@ along the process and helping as you go. Show us what you've got!
 
 ### Technical Requirements
 
-Your app must:
+Your game must:
 
 - Render in the browser
 - Include separate HTML / CSS / JavaScript files
@@ -44,7 +44,7 @@ your project as an issue to this repo:
 [github.com/ga-dc/project1-gallery](https://github.com/ga-dc/project1-gallery/issues/new?body=Link%20to%20repo%3A%0ALink%20to%20deployed%20app%3A%0A%0AThings%20you%27d%20like%20specific%20feedback%20on%3A%0A%0A)
 
 You must turn in something before presentations begin. However, you're welcome
-to continue working on it over the course of WDI and beyond!
+to continue working on it over the course of SEI and beyond!
 
 With your submission please include any questions you'd like answered, or
 specific things on which you'd like us to focus when giving feedback.
@@ -70,27 +70,17 @@ The URL section of your Github repo:
 
 ## Asking For Help
 
-### Office Hours Appointments
+Instructors will not be hosting office hours during this project week. Unit
+projects are an opportunity for two things:
 
-Instructors will be hosting office hours between 10:00 to 12:00 and 2:00 to 4:00
-each day of project week. Unlike normal office hours, project hours are by
-appointment. You can sign up for a 20 minute time slot, to have your project
-reviewed, and questions answered, on the course calendar.
-
-The normal afternoon and evening office hours schedule will **not** be observed
-during project week.
+1. Working through problems on your own. This solidifies your knowledge and is
+   crucial for mastering the skills we've covered.
+1. Becoming an independent developer. Developers tend to coordinate in groups,
+   but contribute individually, so this mimics the real world.
 
 > The purpose of this project is for you to show us and future employers what
 > you're capable of, so we want as much of the project to be your own,
 > independent work as possible
-
-### Github Issues
-
-We strongly encourage you to file a Github issue prior to asking the instructors
-for help directly. This will not only make you a better developer but a better
-learner. Visit
-[this readme](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/asking-for-help.md)
-for more details on asking for help.
 
 ### Project Review
 
@@ -233,52 +223,6 @@ like:
 - What would you do next?
 - How did you plan your project?
 - What did you learn?
-
-## Resources
-
-- [UX Design for Developers](https://hackernoon.com/ux-design-for-developers-d3429200a1da)
-- [Design for Developers](https://medium.com/forge-uk/design-for-developers-part-one-basic-principles-a44329651cd)
-
-**Note:** There are designers on campus. Try asking them for help and offering
-your coding skills in return!
-
-## Pre-employment checklist
-
-Make sure your project looks professional and presentable when you go to apply
-for jobs by completing some (or all) of the following:
-
-- [ ] Add the deployed URL to repo settings
-- [ ] Add a readme with:
-  - [ ] An embedded screenshot of the app
-  - [ ] Explanations of the **technologies** used
-  - [ ] **Installation instructions** for any dependencies
-  - [ ] Link to your **user stories** – who are your users, what do they want
-        and why?
-  - [ ] Link to your **wireframes** – sketches of major views / interfaces in
-        your application
-  - [ ] Descriptions of any **unsolved problems** or **major hurdles** you had
-        to overcome
-- [ ] Add your project to your portfolio site
-  - [ ] Include an image, title, and brief description
-  - [ ] Link to both the deployed project and the repository on GitHub
-- [ ] Write and share a post linking to your project on LinkedIn. Be sure to
-      include:
-  - An image/screenshot of your project
-  - A link to the deployed version of your project
-  - A brief description of the project, mentioning that you are a new developer
-  - Appropriate tags for your post: `#webdevelopment`, `#developers`,
-    `#softwaredevelopment`, `#softwareengineers`
-- [ ] Write and share a post linking to your project on Twitter. Be sure to
-      include:
-  - An image/screenshot of your project
-  - A link to the deployed version of your project
-- [ ] Write and publish a brief blog post about your project to Medium or
-      Dev.to:
-  - Include what you decided to build, how you approached building, the "phases"
-    you went through, one particularly challenging technical hurdle and how you
-    overcame it, and a conclusion
-  - Include lots of images, code snippets, and screenshots
-  - Include a link to your repo and deployed project
 
 ## Plagiarism
 
