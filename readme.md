@@ -131,7 +131,7 @@ _Bonus:_
 - Include images on one or both sides of the flash card
 - Let the user add flash cards (don't need to be saved across refreshes)
 
-[Here's an example from a previous student](http://sarah-yu.com/simon/)
+[Here's an example from a previous student](https://www.dpcii.com/mmry/)
 
 ### Self-scoring Trivia
 
