@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #1: Build a Game with HTML, CSS and JavaScript
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #4: Build a Game with HTML, CSS and JavaScript
 
 For your fourth project, you'll be creating a familiar game using HTML, CSS and
 JS! Please choose one of the following options:
@@ -15,7 +15,7 @@ programming challenges**.
 **You will be working individually for this project**, but we'll be guiding you
 along the process and helping as you go. Show us what you've got!
 
-> If you want to choose a different game for Project #1, please consult with an
+> If you want to choose a different game for Project #4, please consult with an
 > instructor! Warning - many seemingly simple games end up being much more
 > complex than you might think!
 
