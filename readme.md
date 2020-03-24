@@ -146,7 +146,7 @@ _Bonus:_
 - Track scores across games (even if the page is reloaded)
 - Allow users to compete against each other on a high-score board.
 
-[Here's an example from a previous student](https://sathyaram.github.io/oscarstriviagame/)
+[Here's an example from a previous student](https://clarknoah.github.io/memoreyes/index.html)
 
 ### Hangman
 
