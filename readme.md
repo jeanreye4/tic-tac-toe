@@ -39,9 +39,7 @@ DRY (Don't Repeat Yourself) principles.
 ## Submission
 
 **_DO NOT FORK THIS REPOSITORY!_** Create a **new** repository. Then, submit
-your project as an issue to this repo:
-
-[github.com/ga-dc/project1-gallery](https://github.com/ga-dc/project1-gallery/issues/new)
+your project as an issue to this repo.
 
 You must turn in something before presentations begin. However, you're welcome
 to continue working on it over the course of SEI and beyond!
