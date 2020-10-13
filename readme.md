@@ -129,7 +129,7 @@ _Bonus:_
 - Include images on one or both sides of the flash card
 - Let the user add flash cards (don't need to be saved across refreshes)
 
-[Here's an example from a previous student](https://www.dpcii.com/mmry/)
+[Here's an example from a previous student](https://clarknoah.github.io/memoreyes/index.html)
 
 ### Self-scoring Trivia
 
@@ -144,7 +144,7 @@ _Bonus:_
 - Track scores across games (even if the page is reloaded)
 - Allow users to compete against each other on a high-score board.
 
-[Here's an example from a previous student](https://clarknoah.github.io/memoreyes/index.html)
+[Here's an example from a previous student](https://levani1111.github.io/Trivia/)
 
 ### Hangman
 
@@ -189,7 +189,7 @@ _Bonus:_
 - Add timer-based scoring
 - Track scores across games (even if the page is reloaded)
 
-[Here's an example from a previous student](https://aiyentam.github.io/Simon-Says/)
+[Here's an example from a previous student](https://caioingber.github.io/simon-says/)
 
 ## Useful Resources
 
