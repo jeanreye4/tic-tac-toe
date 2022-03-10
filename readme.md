@@ -1,19 +1,19 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #4: Build a Game with HTML, CSS and JavaScript
 
-For your fourth project, you'll be creating a familiar game using HTML, CSS and
-JS! Please choose one of the following options:
+For your fourth project, you'll be creating a familiar game using HTML, CSS and JavaScript!
 
+Here are some example games:
 - **Flash Cards**
 - **Trivia (Self-scoring)**
 - **Hangman**
 - **Tower of Hanoi**
 - **Simon**
 
-This is an opportunity to **be creative**, and work through some **tough
-programming challenges**.
+This is an opportunity to **be creative**, and work through some **tough programming challenges**.
 
-**You will be working individually for this project**, but we'll be guiding you
-along the process and helping as you go. Show us what you've got!
+**You will be working individually for this project**, 
+but we'll be guiding you along the process and helping as you go. 
+Show us what you've got!
 
 > If you want to choose a different game for Project #4, please consult with an
 > instructor! Warning - many seemingly simple games end up being much more
@@ -26,10 +26,9 @@ along the process and helping as you go. Show us what you've got!
 Your game must:
 
 - Render in the browser
-- Include separate HTML / CSS / JavaScript files
+- Include separate HTML, CSS and JavaScript files
 - Use Javascript for DOM manipulation
 - Be deployed online, using [Github Project pages](https://pages.github.com)
-  and/or to a custom domain.
 - Use semantic markup for HTML and CSS (adhere to best practices)
 - Show a good commit history with frequent commits
 
@@ -54,10 +53,10 @@ Your submission must include **all** of the following:
 - A hosted copy of your game, built by you, hosted on Github Pages
 - Your HTML/CSS should pass the [HTML5 Validator](https://html5.validator.nu)
   and [CSS Validator](https://jigsaw.w3.org/css-validator/)
-- A git repository hosted on Github with frequent commits dating back to the
+- A git repository hosted on GitHub with frequent commits dating back to the
   very beginning of the project
-- A link to your hosted project in the URL section of your Github repo
-- A `readme.md` file, including
+- A link to your hosted project in the URL section of your GitHub repo
+- A `README.md` file, including
   - Explanations of the technologies used, the approach taken, installation
     instructions, unsolved problems, etc.
   - [Follow this mini-lesson on writing documentation](https://git.generalassemb.ly/dc-wdi-fundamentals/markdown-and-documentation)
@@ -68,8 +67,7 @@ The URL section of your Github repo:
 
 ## Asking For Help
 
-Instructors will not be hosting office hours during this project week. Unit
-projects are an opportunity for two things:
+This project is an opportunity for two things:
 
 1. Working through problems on your own. This solidifies your knowledge and is
    crucial for mastering the skills we've covered.
@@ -79,15 +77,6 @@ projects are an opportunity for two things:
 > The purpose of this project is for you to show us and future employers what
 > you're capable of, so we want as much of the project to be your own,
 > independent work as possible
-
-### Project Review
-
-During the week, the instructors will be hosting a project review. The purpose
-of this time is to have your code and progress reviewed, to make sure you're on
-track to finish.
-
-**You should use this time to ask for constructive feedback, so come with
-questions prepared and specific things you'd like advice on.**
 
 ## Suggested Ways to Get Started
 
@@ -114,7 +103,7 @@ questions prepared and specific things you'd like advice on.**
   change some text when the game is over but you haven’t solved the win/lose
   game logic, you can create a button to simulate that until then.
 
-## Project Choices
+## Project Ideas
 
 ### Flash-Cards
 
@@ -209,13 +198,10 @@ Your instructors will use this rubric to assess your project:
 We expect everyone to attend all presentations in their entirety and will
 provide breaks between each session.
 
-This means **no working on your code** while others are presenting. This is your
-chance to ask others how they tackled their project.
+This means **no working on your code** while others are presenting. 
+This is your chance to ask others how they tackled their project.
 
-Each session of presentations will be science-fair style. Several people will
-set up at a given time, and other students will walk around asking questions
-like:
-
+Be prepared to answer the following questions:
 - What would you do differently?
 - What are you most proud of?
 - What would you do next?
