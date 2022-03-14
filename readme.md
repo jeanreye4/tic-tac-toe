@@ -15,9 +15,8 @@ This is an opportunity to **be creative**, and work through some **tough program
 but we'll be guiding you along the process and helping as you go. 
 Show us what you've got!
 
-> If you want to choose a different game for Project #4, please consult with an
-> instructor! Warning - many seemingly simple games end up being much more
-> complex than you might think!
+> If you want to choose a game different from what is listed for Project #4 please consult with us!
+> arning - many seemingly simple games are much more complex than you might think!
 
 ## Requirements
 
@@ -28,8 +27,8 @@ Your game must:
 - Render in the browser
 - Include separate HTML, CSS and JavaScript files
 - Use Javascript for DOM manipulation
-- Be deployed online, using [Github Project pages](https://pages.github.com)
-- Use semantic markup for HTML and CSS (adhere to best practices)
+- Be deployed online, using [GitHub Project pages](https://pages.github.com)
+- Use semantic markup for HTML and CSS (adhere to best practices, pass validation)
 - Show a good commit history with frequent commits
 
 Additionally, your project should stick with KISS (Keep It Stupid Simple) and
@@ -50,7 +49,7 @@ specific things on which you'd like us to focus when giving feedback.
 
 Your submission must include **all** of the following:
 
-- A hosted copy of your game, built by you, hosted on Github Pages
+- A hosted copy of your game, built by you, hosted on GitHub Pages
 - Your HTML/CSS should pass the [HTML5 Validator](https://html5.validator.nu)
   and [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - A git repository hosted on GitHub with frequent commits dating back to the
@@ -85,7 +84,7 @@ This project is an opportunity for two things:
 - **Break the project down into different components** (data, presentation,
   views, style, DOM manipulation) and brainstorm each component individually.
   Use whiteboards!
-- **Use your Development Tools** (console.log, inspector, alert statements, etc)
+- **Use your Development Tools** (`console.log`, inspector, `alert` statements, etc.)
   to debug and solve problems
 - Work through the lessons in class & ask questions when you need to! Think
   about adding relevant code to your game each night, instead of, you know...
@@ -101,7 +100,7 @@ This project is an opportunity for two things:
   Create temporary elements (buttons, links, etc) that trigger events if real
   data is not available. For example, if you’re trying to figure out how to
   change some text when the game is over but you haven’t solved the win/lose
-  game logic, you can create a button to simulate that until then.
+  game logic, you can create a button to simulate a win until then.
 
 ## Project Ideas
 
@@ -116,7 +115,7 @@ _Bonus:_
 
 - Track scores over time (even if the page is reloaded)
 - Include images on one or both sides of the flash card
-- Let the user add flash cards (don't need to be saved across refreshes)
+- Let the user add flash cards (doesn't need to be saved across refreshes)
 
 [Here's an example from a previous student](https://clarknoah.github.io/memoreyes/index.html)
 
@@ -182,9 +181,9 @@ _Bonus:_
 
 ## Useful Resources
 
-- [MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  _(a great reference for all things Vanilla Javascript)_
-- [Github Pages](https://pages.github.com) _(for hosting your game)_
+- [MDN JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  _(a great reference for all things vanilla JavaScript)_
+- [GitHub Pages](https://pages.github.com) _(for hosting your game)_
 
 ## Evaluation
 
