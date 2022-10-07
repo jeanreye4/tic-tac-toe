@@ -4,12 +4,36 @@ html {
 
 h1 {
   text-align: center;
-  font-size: 40px;
+  font-size: 35px;
   color: white;
+  font-family: Snell Roundhand, cursive	;
+}
+
+h2 {
+  font-size: 30px;
+  color: blue;
 }
 
 body {
   text-align: center;
+}
+
+.main-container {
+  display: flex;
+}
+
+.p1-score, .p2-score {
+  font-size: 50px;
+  margin: 0;
+  align-self: center;
+  padding: 0 20px;
+}
+.p1-score {
+  color: blue;
+}
+
+.p2-score {
+  color: red;
 }
 
 .container {
@@ -18,12 +42,10 @@ body {
   width: 582px;
   margin: 0 auto;
   color: white;
-  /* box-shadow: 0 0 60px 30px blue,0 0 100px 60px blue, 0 0 140px 90px blue */
-
 }
 
 .box{
-  height: 130px;
+  height: 110px;
   width: 190px;
   cursor: pointer;
   font-size: 120px;
@@ -69,13 +91,32 @@ body {
 
 .bottom-right {
   border-top: 2px solid white;
-  border-left: 2px solid white;
-}
+  border-left: 2px solid white;}
 
 .big-div {
   flex-wrap: flex;
 }
-// CHARACTER1 STICK FIGURE
+
+
+h4{
+  color: blue;
+  font-size: 30px;
+  position: relative;
+  top: -50px;
+  box-shadow: 0 0 blue,0 1px blue, 0 10px 25px 10px blue;
+}
+
+h5{
+  color: red;
+  font-size: 30px;
+  position: relative;
+  top: -50px;
+  box-shadow: 0 0 red,0 1px red, 0 10px 25px 10px red;
+}
+
+
+
+/* CHARACTER1 STICK FIGURE */
  {
   /* box-sizing: border-box; */
   /* color: blue; */
@@ -85,10 +126,8 @@ body {
 .character1 {
   width: 300px;
   height: 300px;
-  /* display: block; */
-  position: relative; 
-  /* box-shadow: 0 0  blue,0 1px blue, 0 30px 80px blue */
- 
+  position: relative;
+  top: -50px; 
 }
 
 .head {
@@ -127,7 +166,7 @@ body {
   top: 80px;
   left: 156px;
   background-color: blue;
-  box-shadow: 0 0 blue,0 1px blue, 0  10px 15px blue;
+  box-shadow: 0 0 10px blue,0 1px blue, 0  10px 15px blue;
 }
 
 
@@ -143,7 +182,7 @@ body {
   transform: rotate(12deg);
   transform-origin: top;
   background-color: blue;
-  box-shadow: 0 0 blue,0 1px blue, 0  10px 15px blue;
+  box-shadow: 0 0 10px blue,0 1px blue, 0  10px 15px blue;
 }
 
 .rightleg {
@@ -157,7 +196,7 @@ body {
   transform: rotate(-12deg);
   transform-origin: top;
   background-color: blue;
-  box-shadow: 0 0 blue,0 1px blue, 0  10px 15px blue;
+  box-shadow: 0 0 10px blue,0 1px blue, 0  10px 15px blue;
 }
 
 .leftarm {
@@ -216,7 +255,7 @@ body {
   left: 119px;
   transform: rotate(8deg);
   background-color: blue;
-  box-shadow: 0 0 blue,0 1px blue, 0  10px 15px blue;
+  box-shadow: 0 0 10px blue,0 1px blue, 0  10px 15px blue;
 }
 
 .rightfoot {
@@ -229,10 +268,10 @@ body {
   left: 170px;
   transform: rotate(-8deg);
   background-color: blue;
-  box-shadow: 0 0 blue,0 1px blue, 0  10px 15px blue;
+  box-shadow: 0 0 10px blue,0 1px blue, 0  10px 15px blue;
 }
 
-// CHARACTER 2 STICK FIGURE
+ /* CHARACTER 2 STICK FIGURE */
  {
   box-sizing: border-box;
   
@@ -243,9 +282,8 @@ body {
   height: 300px;
   display: block;
   position: relative;
-  left: 50px;
   margin-left: auto;
-  top: -300px;
+  top: -400px;
 }
 
 .head2 {
@@ -282,7 +320,7 @@ body {
   top: 80px;
   left: 156px;
   background-color: red;
-  box-shadow: 0 0 red,0 1px red, 0  10px 15px red;
+  box-shadow: 0 0 40px red,0 1px red, 0  10px 15px red;
 }
 
 .leftleg2 {
@@ -296,7 +334,7 @@ body {
   transform: rotate(12deg);
   transform-origin: top;
   background-color: red;
-  box-shadow: 0 0 red,0 1px red, 0  10px 15px red;
+  box-shadow: 0 0 10px red,0 1px red, 0  10px 15px red;
 }
 
 .rightleg2 {
@@ -324,7 +362,7 @@ body {
   animation: wave 1s alternate infinite ease-in-out;
   transform-origin: 100%;
   background-color: red;
-  box-shadow: 0 20 50px red,0 1px red, 0 10px 15px red;
+  box-shadow: 0 20px 50px red,0 1px red, 0 10px 15px red;
 }
 
 @keyframes wave {
@@ -384,3 +422,7 @@ body {
   background-color: red;
   box-shadow: 0 0 red,0 1px red, 0  10px 15px red;
 }
+
+/* @media (min-width:320px) {
+  
+} */

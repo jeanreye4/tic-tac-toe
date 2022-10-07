@@ -3,6 +3,11 @@ let gameActive = true
 
 let resetButton = document.querySelector("button")
 let gameStatus = document.querySelector(".game-status")
+let p1ScoreContainer = document.querySelector(".p1-score")
+let p2ScoreContainer = document.querySelector(".p2-score")
+let p1Score = 0
+let p2Score = 0
+
 
 let currentTurn = () => `${currentPlayer} Turn`
 let winningMessage = () => `${currentPlayer} has won`
@@ -57,6 +62,15 @@ function checkWinner() {
   if (roundWon) {
     gameStatus.innerHTML = winningMessage();
     gameActive = false;
+
+    if (currentPlayer === "X") {
+      p1Score++
+      p1ScoreContainer.innerText = `Score: ${p1Score.toString().padStart(2, "0")}`
+    } else {
+      p2Score++
+      p2ScoreContainer.innerText = `Score: ${p2Score.toString().padStart(2, "0")}`
+    }
+    
     return;
   }
   
@@ -68,7 +82,8 @@ function checkWinner() {
   }
   changePlayer()
 }
-
+// p1Score++
+// p1ScoreContainer.innerText=`score:${p1Score.pad(0,2)}`
 
 
 function handleCellClick(event) {

@@ -5,22 +5,29 @@
     <link rel="stylesheet" href="style.css">
     <script src="script.js" defer></script>
     <h1>Tic-Tac-Toe</h1>
+    <link rel="stylesheet" href="style.css">
+    </head>
   <body>
-    <div class="container">
-      <div class="box top-left" data-index="0"></div>
-      <div class="box top-middle" data-index="1"></div>
-      <div class="box top-right" data-index="2"></div>
-      <div class="box middle-left" data-index="3"></div>
-      <div class="box " data-index="4"></div>
-      <div class="box middle-right" data-index="5"></div>
-      <div class="box bottom-left" data-index="6"></div>
-      <div class="box bottom-middle" data-index="7"></div>
-      <div class="box bottom-right" data-index="8"></div>
+    <div class="main-container">
+      <div class="p1-score">Score: 00</div>
+      <div class="container">
+        <div class="box top-left" data-index="0"></div>
+        <div class="box top-middle" data-index="1"></div>
+        <div class="box top-right" data-index="2"></div>
+        <div class="box middle-left" data-index="3"></div>
+        <div class="box" data-index="4"></div>
+        <div class="box middle-right" data-index="5"></div>
+        <div class="box bottom-left" data-index="6"></div>
+        <div class="box bottom-middle" data-index="7"></div>
+        <div class="box bottom-right" data-index="8"></div>
+      </div>
+      <div class="p2-score">Score: 00</div>
     </div>
     <h2 class="game-status"></h2>
     <button class="game-restart">Restart Game</button>
     <div class ="big-div">
     <div class="character1">
+      <h4>GO BLUE</h4>
       <div class="head"></div>
       <div class="torso"></div>
       <div class="leftarm"></div>
@@ -31,6 +38,7 @@
       <div class="rightfoot"></div>
   </div>
   <div class="character2">
+    <h5>GO RED</h5>
     <div class="head2"></div>
     <div class="torso2"></div>
     <div class="leftarm2"></div>
