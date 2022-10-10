@@ -33,12 +33,13 @@ function handleCellPlayed(clickedCell, clickedCellIndex) {
   clickedCell.innerHTML = currentPlayer;
 }
 
+//function to chage from one player to the next
 function changePlayer() {
   currentPlayer = currentPlayer == "X" ? "O" : "X"
   gameStatus.innerHTML = currentTurn()
 }
 
-//function to chage from one player to the next
+//function to check each play for winner
 function checkWinner() {
   let roundWon = false;
 
@@ -82,9 +83,6 @@ function checkWinner() {
   }
   changePlayer()
 }
-// p1Score++
-// p1ScoreContainer.innerText=`score:${p1Score.pad(0,2)}`
-
 
 function handleCellClick(event) {
   const clickedCell = event.target;
@@ -113,4 +111,3 @@ document
   .querySelector(".game-restart")
   .addEventListener("click", handleRestartGame);
 
-// currentPlayer.style.color = "Red";
