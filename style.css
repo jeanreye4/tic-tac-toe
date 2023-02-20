@@ -423,6 +423,9 @@ h5{
   box-shadow: 0 0 red,0 1px red, 0  10px 15px red;
 }
 
-/* @media (min-width:320px) {
-  
-} */
+ @media (max-width:1045px) {
+  .container{
+    width: auto;
+  }
+}  
+
